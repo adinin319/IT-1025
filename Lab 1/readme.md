@@ -16,5 +16,7 @@ Microsoft is one of the several computer building companies that used IBM's open
 ### What is Github?
 Github is an open-source code sharing site where people can submit requests to help solve problems and everyday programmers can work together to solve problems.
 
+###### Attached files
+The attached files above are a screen capture with Snipping tool, and a video screen capture Zipped.
 # Conclusion
 I found that I enjoyed this lesson because I understood the topics covered very well do to both having interest in the field as well as prior experience with Github. I had trouble at first remembering how to setup the repository but figured it out with some playing with the program. This will definitly help me with my Cyber Security major.
