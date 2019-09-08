@@ -36,9 +36,9 @@ Logic gates are devices, both physical and coded, that are able to be used to he
 
 | Input 1 | Input 2 | Output |
 | - | - | - |
-| **False | **False** |  **True** |
-| **False | **True** | **True** |
-| **True | **False** | **True** |
+| **False** | **False** |  **True** |
+| **False** | **True** | **True** |
+| **True** | **False** | **True** |
 | True | True | False |
 ##### Nor
 
