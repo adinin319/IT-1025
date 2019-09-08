@@ -9,7 +9,11 @@ Input and output functions are important to all computers. keystrokes, mouse cli
 
 An example is shopping at a grocery store. when at a self check out line, there are multiple different ways to input your purchases. you can use the camera to scan the bar code. use a keypad or touchscreen to enter the product ID, and in the case of produce, put the product on the scale to determine weight. from here. the device takes all that data, stores it in the system to keep for inventory purposes with t he memory, and calculates the cost for the product with the CPU. after the final calculated data is found, it will be either displayed or read out to the customer, depending on the device, where they can validate the price is correct.
 ### Logic Gates and Circuit
-Logic gates are devices, both physical and coded, that are able to be used to help a machine determine what data is needed and what do return as an output in different situations. there are 9 different basic logic functions that can be used to determine different outcomes
+Logic gates are devices, both physical and coded, that are able to be used to help a machine determine what data is needed and what do return as an output in different situations. There are 9 different basic logic functions that can be used to determine different outcomes. The charts below show how each gate impacts the data inputed, however several key terms should be known to utilize gates to the fullest.<br/>
+
+One term to know is what it means if X is in front of a term, such as Xor. if an X is in front of a term, it mean "exclusive", or that the data must exclusively be the function fulling. an example is Xor and Or: The difference is with Or being `True` if input 1 and 2 are `True`, including if both are `True`. However Xor is `True` only if input 1 **OR** 2 are `True`, not both.<br/>
+
+Another key term to know is N in front of a term. this means "not", or that the output will be `True` if the gate would normally put out `False`, and vice versa. An example that can be used is And versus Nand. And gates only put out true if both Input 1 and 2 are `True`, otherwise it will output `False`
 ##### Not
 
 | input | output |
@@ -29,9 +33,9 @@ Logic gates are devices, both physical and coded, that are able to be used to he
 | Input 1 | Input 2 | Output |
 | - | - | - |
 | False | False |  False |
-| **False | **True** | **True** |
-| **True | **False** | **True** |
-| **True | **True** | **True** |
+| **False** | **True** | **True** |
+| **True** | **False** | **True** |
+| **True** | **True** | **True** |
 ##### Nand
 
 | Input 1 | Input 2 | Output |
@@ -47,7 +51,7 @@ Logic gates are devices, both physical and coded, that are able to be used to he
 | **False** | **False** |  **True** |
 | False | True | False |
 | True | False | False |
-| **True** | **True** | **True** |
+| True | True | False |
 ##### Xand
 
 | Input 1 | Input 2 | Output |
