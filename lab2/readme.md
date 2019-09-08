@@ -23,41 +23,47 @@ Logic gates are devices, both physical and coded, that are able to be used to he
 | False | False | False |
 | False | True | False |
 | True | False | False |
+| **True** | **True** | **True** |
 ##### Or
 
 | Input 1 | Input 2 | Output |
 | - | - | - |
 | False | False |  False |
-| False | True | True |
-| True | False | True |
+| **False | **True** | **True** |
+| **True | **False** | **True** |
+| **True | **True** | **True** |
 ##### Nand
 
 | Input 1 | Input 2 | Output |
 | - | - | - |
-| False | False |  True |
-| False | True | True |
-| True | False | True |
+| **False | **False** |  **True** |
+| **False | **True** | **True** |
+| **True | **False** | **True** |
+| True | True | False |
 ##### Nor
 
 | Input 1 | Input 2 | Output |
 | - | - | - |
-| False | False |  True |
+| **False** | **False** |  **True** |
 | False | True | False |
 | True | False | False |
+| **True** | **True** | **True** |
 ##### Xand
 
 | Input 1 | Input 2 | Output |
 | - | - | - |
-| False | False |  True |
+| **False** | **False** |  **True** |
 | False | True | False |
 | True | False | False |
+| **True** | **True** | **True** |
 ##### Xor
 
 | Input 1 | Input 2 | Output |
 | - | - | - |
 | False | False | False |
-| False | True | True |
-| True | False | True |
+| **False** | **True** | **True** |
+| **True** | **False** | **True** |
+| True | True | False |
 ##### Buffer
 
 ##### Tristate buffer
