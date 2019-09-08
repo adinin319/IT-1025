@@ -3,7 +3,8 @@ Lab 2 covered the different components inside of computers and what each parts r
 
 Lab 2 also covered data representation, including binary, decimal, and hexadecimal. we discussed how to convert from one unit to another and what uses each format.
 ## Hardware
-### ALU and the Control Unit 
+### ALU and the Control Unit
+The ALU or Arithmatic Logic Unit, and the Control Unit interact with one another inside the CPU to do all the mathematic functions that the computer does. First, the Control unit tells the ALU what kind of function is going to be done, before the data gets input. the data is then input and it is checked if the data, which is stored in a register. whenever the data needs to move, it will be transfered by the bus, however only 1 piece of data can be used on the but at the time. this process will continue until the final data is calculated. the data will then be sent out of the system.
 ### CPU, Input and Output
 Input and output functions are important to all computers. keystrokes, mouse clicks, microphones, and even cameras serve as input devices, data being put into a device. output functions are just as important. audio sounds and displays such as your computer screen allow you to observe the data collected and make sure it is correct. the CPU and Memory serve as the connection between the two, storing the data and calculating the information.<br/>
 
@@ -70,8 +71,10 @@ Another key term to know is N in front of a term. this means "not", or that the 
 | True | True | False |
 
 ### IEEE - Ethically Aligned Design
+The Institute of Electrical and Electronics Engineers, or IEEE is a group founded out of New York, USA, whose goal is to "foster technological innovation and excellence for the benefit of humanity." as of 2010, the group had over 395,000 members in 160 different countries.
 ## Data Represenation
 ### Numeric Conversions
-the differences between binary (base 2), Decimal (base 10), and Hexadecimal (base 16) is the
+The differences between binary (base 2), Decimal (base 10), and Hexadecimal (base 16) is the
 ### Hexadecimal Color Representation
+When identifying colors to put them on into number, the standardized system is hexadecimal. Since any color can be made with Red, Green, and Blue, the system used includes a number between 0 and 255 in the order red, green, blue; or rgb(###,###,###). The problem with this format, and sites that rely on it, is that many users dont know what #ffffff, or white, means in that format. since ff in hexadecimal is 16x16, there is 100% red, 100% green, 100% blue. this is an extremely difficult numbering system to first understand and many sites rely on a color picker system instead and give you the associated code instead.
 # Conclusion
