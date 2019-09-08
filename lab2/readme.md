@@ -71,10 +71,18 @@ Another key term to know is N in front of a term. this means "not", or that the 
 | True | True | False |
 
 ### IEEE - Ethically Aligned Design
-The Institute of Electrical and Electronics Engineers, or IEEE is a group founded out of New York, USA, whose goal is to "foster technological innovation and excellence for the benefit of humanity." as of 2010, the group had over 395,000 members in 160 different countries.
+The Institute of Electrical and Electronics Engineers, or IEEE is a group founded out of New York, USA, whose goal is to "foster technological innovation and excellence for the benefit of humanity." as of 2010, the group had over 395,000 members in 160 different countries. Groups such as the IEEE also help encourage and reccomend different Ethics Systems for machines and artifical intelligence, which has been growing in importances the further technology develops.<br/>
+
+Robotics ethics has been developing in science since the first machine was capable of independant calculations. However author Issac Asimov was one of the first people to develop an Ethics code for robots. these were:<br/>
+**Law 1:** "robot may not injure a human being or, through inaction, allow a human being to come to harm."<br/>
+**Law 2:** "A robot must obey orders given it by human beings except where such orders would conflict with the First Law."<br/>
+**Law 3:** "A robot must protect its own existence as long as such protection does not conflict with the First or Second Law."<br/>
+**Law 4 (Zeroth Law):** "A robot may not harm humanity, or, by inaction, allow humanity to come to harm."<br/>
+
+However, many different people have argued for different processes as well as who should decide the ethics a robot decides, most commonly utilitarianism. These codes are may be insignificant, however they could, if improperly written, lead to the doom of humanity in hyperbolic scenarios. 
 ## Data Represenation
 ### Numeric Conversions
-The differences between binary (base 2), Decimal (base 10), and Hexadecimal (base 16) is the
+The differences between binary (base 2), Decimal (base 10), and Hexadecimal (base 16) is the value that can be stored in 1 position before cycling one digit higher. in binary, each position can only hold 2 positions before it must cycle to a higher digit (0000, 0001, 0010...), when in Decimal it can hold 10 positions before cycling (00, 01, 02.. ..08, 09, 10), and Hexadecimal can hold 16 positions before cycling (00, 01, 02.. ..0E, 0F, 10). 
 ### Hexadecimal Color Representation
 When identifying colors to put them on into number, the standardized system is hexadecimal. Since any color can be made with Red, Green, and Blue, the system used includes a number between 0 and 255 in the order red, green, blue; or rgb(###,###,###). The problem with this format, and sites that rely on it, is that many users dont know what #ffffff, or white, means in that format. since ff in hexadecimal is 16x16, there is 100% red, 100% green, 100% blue. this is an extremely difficult numbering system to first understand and many sites rely on a color picker system instead and give you the associated code instead.
 # Conclusion
