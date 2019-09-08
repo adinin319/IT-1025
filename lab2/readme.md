@@ -9,6 +9,52 @@ Input and output functions are important to all computers. keystrokes, mouse cli
 
 An example is shopping at a grocery store. when at a self check out line, there are multiple different ways to input your purchases. you can use the camera to scan the bar code. use a keypad or touchscreen to enter the product ID, and in the case of produce, put the product on the scale to determine weight. from here. the device takes all that data, stores it in the system to keep for inventory purposes with t he memory, and calculates the cost for the product with the CPU. after the final calculated data is found, it will be either displayed or read out to the customer, depending on the device, where they can validate the price is correct.
 ### Logic Gates and Circuit
+Logic gates are devices, both physical and coded, that are able to be used to help a machine determine what data is needed and what do return as an output in different situations. there are 9 different basic logic functions that can be used to determine different outcomes
+##### Not
+
+| input | output |
+| ------ | ------ |
+| true | false |
+| false | true |
+##### And
+
+| Input 1 | Input 2 | Output |
+| - | - | - |
+| False | False | False |
+| False | True | False |
+##### Or
+
+| Input 1 | Input 2 | Output |
+| - | - | - |
+| False | False |  False |
+| False | True | True |
+##### Nand
+
+| Input 1 | Input 2 | Output |
+| - | - | - |
+| False | False |  True |
+| False | True | True |
+##### Nor
+
+| Input 1 | Input 2 | Output |
+| - | - | - |
+| False | False |  True |
+| False | True | False |
+##### Xand
+
+| Input 1 | Input 2 | Output |
+| - | - | - |
+| False | False |  True |
+| False | True | False |
+##### Xor
+
+| Input 1 | Input 2 | Output |
+| - | - | - |
+| False | False | True |
+| False | True | True |
+##### Buffer
+
+##### Tristate buffer
 ### IEEE - Ethically Aligned Design
 ## Data Represenation
 ### Numeric Conversions
