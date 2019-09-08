@@ -1,7 +1,7 @@
 # Executive Summary
 Lab 2 covered the different components inside of computers and what each parts role was. we covered the CPU, memory, storage, the motherboard, input devices, and output devices. we discussed how these different parts interact with each other and what affects the speed they interact with one another.<br/>
 
-Lab 2 also covered data representation, including binary, decimal, and hexadecimal. we discussed how to convert from one unit to another and what uses each format.
+Lab 2 also covered data representation, including binary, decimal, and hexadecimal. we discussed how to convert from one unit to another and what uses each format. We also covered what each base unit is used for in today's age.
 ## Hardware
 ### ALU and the Control Unit
 The ALU or Arithmatic Logic Unit, and the Control Unit interact with one another inside the CPU to do all the mathematic functions that the computer does. First, the Control unit tells the ALU what kind of function is going to be done, before the data gets input. the data is then input and it is checked if the data, which is stored in a register. whenever the data needs to move, it will be transfered by the bus, however only 1 piece of data can be used on the but at the time. this process will continue until the final data is calculated. the data will then be sent out of the system.
@@ -86,3 +86,4 @@ The differences between binary (base 2), Decimal (base 10), and Hexadecimal (bas
 ### Hexadecimal Color Representation
 When identifying colors to put them on into number, the standardized system is hexadecimal. Since any color can be made with Red, Green, and Blue, the system used includes a number between 0 and 255 in the order red, green, blue; or rgb(###,###,###). The problem with this format, and sites that rely on it, is that many users dont know what #ffffff, or white, means in that format. since ff in hexadecimal is 16x16, there is 100% red, 100% green, 100% blue. this is an extremely difficult numbering system to first understand and many sites rely on a color picker system instead and give you the associated code instead.
 # Conclusion
+Lab 2 primarily covered the software and hardware of computers, as well as data representation and calculation. The lab reinforced what we learned about the purpose of each component in the computer and how they interact with one another. we also covered the numeric conversions and different base systems for numbers and the purpose in our current age for each of them, including color codes and programming logic.
