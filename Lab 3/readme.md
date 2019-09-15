@@ -16,11 +16,13 @@ An enterprise resource planning system, or ERP, is a software application that h
 An example of an ERP is Oracle E-Business Suite. E-Business Suite has many integrated modules, including HR, Financials, Purchasing, Manufactoring, and Sales.
 
 ### Virtualization vs. Cloud Computing
-Virtualization is
+Virtualization is the process of creating a software representation of hardware or software applications, including servers, storage, networks, and applications. The purpose for this is to increase efficency amongst machines by allocating resources more efficently.
+Virtualization is often mistaken as Cloud Computing, and Vice Versa. Whilst cloud computing keeps the computing environments seperate from physical infrastructure, cloud computing shares resources and software on demand over the internet.
 
 ## Virtualization
-Virtualization is the technology
+Virtualization can solve many problems when utilized effectively. Two of the most notable are computing inefficency and lack of hardware. With Virtualization, resources can be allocated based on requirements, instead of hardware limitatings not being used to the fullest. If a task requires twice as much computing power compared to others, hypervisors can allocate more available resources to that task to help it function quicker and more efficently.
 ## Python
 Python is a coding language that is often considered similar to C++ and Java. However despite its similarities, people will often comment on its "pseudo-code nature" what people are referring to is how easy it is to read and how python is object-oriented. This is different from C++ and Java as they are procedure-oriented.
 ## Careers In Computing
+### Career Exploration
 # Conclusion
