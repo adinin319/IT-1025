@@ -1,4 +1,5 @@
  # Executive Summary
+ Lab 5 covered the topic of Lucid charts, Network Hardware and Data Transmission, and Encryption/Decryption. We covered Lots of terms used in cybersecurity, what topology networks use, and the caesar cipher.
 ## Lucid Chart
 My experience with Lucid Chart, I found that my experience was positive. Since I am someone who likes to visualize data with charts, I found that I was able to utilize the chart to design my program effectively.
 ## Introduction to Networking 
@@ -19,8 +20,31 @@ My experience with Lucid Chart, I found that my experience was positive. Since I
 
 b.) Infrastructure Topology vs. Wireless Mesh: In my opinion, Wireless Topologies are better than Infrastructure topology, Although I prefer a mixture of both. The reason I say this is because in a Wireless Topology, the user is not bound by physical ports to access the network.
 ### Network Design
+For my network, I have the two computers and the printer connected to the switch, since the data has to be sent to the printer. Both of these connections are both outbound and inbound, since even the printer will send messages out such as out of paper and ink. The router is also connected to the switch, since that is the connection that computers will need to get to the internet.
 ### NSA/CSS
+The NSA/CSS works to innovate the Cyber Security field by developing new ways to read and interpret data. They do this with the data that has to get to the US unread by foreign adversaries and reading their data.
 ## Cybersecurity and Encryption 
 ### Information Systems Security 
+a.)
+
+b.)Three Daily Tasks that I do that require authentication are logging onto my computer, unlocking my car, and swiping into work. Each of these could utilize multi-factor authentication by:<b/>
+
+   The Computer: Requiring a fingerprint as well as a PIN, requiring both a physical unlocker and knowledge of the PIN.<b/>
+   
+   The Car: Requiring a PIN to unlock the car, requiring both a physical key and knowledge of a PIN to unlock the vehicle.<b/>
+   
+   Swiping into Work: Requiring a Fingerprint to scan in, requiring two physical unlockers instead of one unlocker and a PIN.<b/>
+   
+c.) Access Control Lists, or ACL, are lists of permissions that are attached to objects such as files. These include Whitelist and Blacklists, where a list determines who has access. The disadvantage to this strategy is that it gets very tedious to assign hundreds of permissions to each user.<b/>
+
+Role Based Access Control, or RBAC, are a set of permissions that are assigned to roles or lists that are assigned to a user determining their level of access. The disadvantage of these roles are that they have limited individual unique permission settings amongst the members.
 ### Cryptography
+The Caesar Cipher works where one letter will replace another based on a number of letters offset. an example of this is a Caesar Cipher of 5. where A = E, B = F, C = G, and so on.
+
+The letter frequency would change from language to language as each language uses each letter more often than another.4
+
+The Polyalphebetic Cipher is an encryption method where each party has a code phrase where each letter is its own caesar cipher. from there the shift happens and the letter is encrypted with multiple shifts.
 ### Brute-Force
+Brute Force tactic is where a person will go through every possible combination until the correct answer is achieved. This system relates to Kerckhoffs’s principle because the only way to solve the cipher should be with brute force.
+# Conclusion
+This lab was interesting as it is starting to get in data protection and the methods to keep the data safe. I hope we continue on this subject.
